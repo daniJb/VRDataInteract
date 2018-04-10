@@ -4,4 +4,9 @@ VR Data Interact is a virtual reality software application that was developed us
 The application is equipped with a demo model that includes 4 cellular/intracellular structures: a Glia, axons, dendrites, and glycogen granules.
 The block diagrams below represents two use case scenarios for importing an object and for importing an entire z stack for the purpose of analysis and data interaction.
 
-[ two block diagram here ]
+[ two block diagrams here ]
+
+# Installation:
+VRDataInteract is a windows platform dependent application. To install and run a few dependencies / prerequisites that need to be met (please refer to the wiki for more information). Once all requirements are met, just download the executable “VRDataInteract.exe” and double mouse click for application launch. Note that you need to have your HTC vive running and connected properly along with its both controllers.
+
+
