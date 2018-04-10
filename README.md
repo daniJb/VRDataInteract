@@ -7,6 +7,6 @@ The block diagrams below represents two use case scenarios for importing an obje
 [ two block diagrams here ]
 
 # Installation:
-VRDataInteract is a Windows platform dependent application. To install and run a few dependencies / prerequisites that need to be met (please refer to the wiki for more information). Once all requirements are met, just download the executable “VRDataInteract.exe” and double mouse click for application launch. Note that you need to have your HTC vive running and connected properly along with its both controllers.
+VRDataInteract is a Windows platform dependent application. To install and run; few dependencies / prerequisites need to be met (please refer to the wiki for more information). Once all requirements are met, just download the executable “VRDataInteract.exe” and double mouse click for application launch. Note that you need to have your HTC vive running and connected properly along with its both controllers.
 
 
