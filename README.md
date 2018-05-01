@@ -7,6 +7,8 @@ The block diagrams below represents two use case scenarios for importing an obje
 [ two block diagrams here ]
 
 ### Installation:
-VRDataInteract is a Windows platform dependent application. To install and run; few dependencies / prerequisites need to be met (please refer to the [wiki](https://github.com/daniJb/VRDataInteract/wiki) for more information). Once all requirements are met, just download the executable “VRDataInteract.exe” and double mouse click for application launch. Note that you need to have your HTC vive running and connected properly along with its both controllers.
+VRDataInteract is a Windows platform dependent application. To install and run; few dependencies / prerequisites need to be met (please refer to the [wiki](https://github.com/daniJb/VRDataInteract/wiki) for more information). Once all requirements are met, just download the executable “VRDataInteract.exe” and double mouse click for application launch. Note that you need to have your HTC vive running and connected properly along with its both controllers beforehand.
+
+To execute the demo files, refer to the vive-controller mappings below and and press the menu button for the main menu to appear, then laser-point on "Load Demo" button by clicking on the touchpad, and then select it by using the trigger button on the vive controller.
 
 
