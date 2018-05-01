@@ -8,4 +8,8 @@ VRDataInteract is a Windows platform dependent application. To install and run; 
 
 To execute the demo files, refer to the vive-controller mappings below + main menu screenshot (Fig.1,Fig.2) and and press the menu button for the main menu to appear, then laser-point on "Load Demo" button by clicking on the touchpad, and then select it by using the trigger button on the vive controller.
 
-![Figure 1: Vive Controllers Mappings](vive_controllers.png)
+![Figure 1: Main Menu](VRDataInteract_stackSP.JPG )
+Figure 1: Main Menu
+
+![Figure 2: Vive Controllers Mappings](vive_controllers.png)
+Figure 2: Vive Controllers Mappings
