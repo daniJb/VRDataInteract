@@ -15,7 +15,7 @@ Figure 1: Main Menu
 Figure 2: Vive Controllers Mappings
 
 
-The repository contians relatively large files (~2GB). Therefore, git lfs is necessary to have. Please install git-lfs, instructions can be found [here](https://git-lfs.github.com/). 
+The repository contians relatively large files (~2GB). Therefore, git lfs is necessary to have. Installation instructions can be found [here](https://git-lfs.github.com/). 
 
 To clone:
 
