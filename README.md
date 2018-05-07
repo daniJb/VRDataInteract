@@ -22,11 +22,11 @@ Figure 2: Vive Controllers Mappings
 
 In order to close the main menu, you can press the menu button again on your vive controller. Upon successful load, the demo will look like the following:
 
-![Figure 3: Demo Model] (DemoModel.JPG)
+![Figure 3: Demo Model](DemoModel.JPG)
 
 in order to interact with the stack, you need to launch the main menu again and select **Stack Interact** (by vive touchpad press + trigger click). This will launch the Stack Interact menu. Just laser point on the checkbox labeled **“Touchpad Scroll”** using vive **touchpad** press, and then select it with the **trigger** switch. The checkbox should appear checked as in the following screenshot:
 
-![Figure 4: Stack Interact checkbox] (StackInteractCheck.JPG)
+![Figure 4: Stack Interact checkbox](StackInteractCheck.JPG)
 
 Now exit the menu by pressing on the vive menu button.
 
