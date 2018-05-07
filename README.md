@@ -10,7 +10,7 @@ To clone:
 $ get lfs clone https://github.com/daniJb/VRDataInteract.git
 
 ### Installation:
-VRDataInteract is a Windows platform application. To install and run; few prerequisites need to be met (please refer to the [wiki](https://github.com/daniJb/VRDataInteract/wiki) for more information). Once all requirements are met, double mouse click on "VRDataInteract.exe" for application launch. Note that you need to have your HTC vive running and connected properly along with its both controllers beforehand.
+VRDataInteract is a Windows platform application. To install and run; few prerequisites need to be met (please refer to the [wiki](https://github.com/daniJb/VRDataInteract/wiki) for more information). Once all requirements are met, double mouse click on "VRDataInteract.exe" for application launch (the executable file is zipped under dryad_ready.zip). Note that you need to have your HTC vive running and connected properly along with its both controllers beforehand.
 
 To execute the demo files, refer to the vive-controller mappings below + main menu screenshot (Fig.1,Fig.2). Using the **RIGHT** controller (you can identify the right controller as the one that shoots a laser beam, the left controller does not), press the menu button for the main menu to appear, then laser-point on "Load Demo" by pressing on the **touchpad**, and then select it by using the **trigger** switch on the vive controller. Loading the demo will take some time depending on your PC specs.
 
