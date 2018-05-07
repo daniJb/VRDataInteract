@@ -14,19 +14,19 @@ VRDataInteract is a Windows platform application. To install and run; few prereq
 
 To execute the demo files, refer to the vive-controller mappings below + main menu screenshot (Fig.1,Fig.2). Using the **RIGHT** controller (you can identify the right controller as the one that shoots a laser beam, the left controller does not), press the menu button for the main menu to appear, then laser-point on "Load Demo" by pressing on the **touchpad**, and then select it by using the **trigger** switch on the vive controller. Loading the demo will take some time depending on your PC specs.
 
-![Figure 1: Main Menu](main_menu.JPG )
+![Figure 1: Main Menu](img/main_menu.JPG )
 Figure 1: Main Menu
 
-![Figure 2: Vive Controllers Mappings](vive_controllers.png)
+![Figure 2: Vive Controllers Mappings](img/vive_controllers.png)
 Figure 2: Vive Controllers Mappings
 
 In order to close the main menu, you can press the menu button again on your vive controller. Upon successful load, the demo will look like the following:
 
-![Figure 3: Demo Model](DemoModel.JPG)
+![Figure 3: Demo Model](img/DemoModel.JPG)
 
 in order to interact with the stack, you need to launch the main menu again and select **Stack Interact** (by vive touchpad press + trigger click). This will launch the Stack Interact menu. Just laser point on the checkbox labeled **“Touchpad Scroll”** using vive **touchpad** press, and then select it with the **trigger** switch. The checkbox should appear checked as in the following screenshot:
 
-![Figure 4: Stack Interact checkbox](StackInteractCheck.JPG)
+![Figure 4: Stack Interact checkbox](img/StackInteractCheck.JPG)
 
 Now exit the menu by pressing on the vive menu button.
 
